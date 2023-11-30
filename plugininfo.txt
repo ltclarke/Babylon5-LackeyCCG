@@ -312,6 +312,21 @@
 		<PositionX>0</PositionX>
 		<PositionY>0.5</PositionY>
 	</cardfunction>
+
+	<cardfunction>
+		<label>STRIFE--</label>
+		<kind>REMOVECOUNTER</kind>
+		<color>ORANGE</color>
+	</cardfunction>
+
+	<cardfunction>
+		<label>STRIFE++</label>
+		<kind>ADDCOUNTER</kind>
+		<color>ORANGE</color>
+		<PositionX>0</PositionX>
+		<PositionY>0.2</PositionY>
+	</cardfunction>
+
 	
 	
 
